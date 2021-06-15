@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="603b83e7-9fca-49ec-a70e-c2b722ea5f10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/User/DeydamTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/278c25e3-d719-4952-a99f-a10b6504274a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/46f53c58-554c-42b3-8e50-d991050c214c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/6320395f-0d43-43aa-a8f7-eb54bbcd1f2b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/allure-results/f49dd1e7-99f1-415e-8292-bcbd1118f111-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/src/test/java/User/FacebookTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facebook/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1tysgUYTwuLhA2Sxx50nH9agSwx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="Deydam" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeydamTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="User" />
+      <option name="MAIN_CLASS_NAME" value="User.DeydamTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeydamTests.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="User.DeydamTests" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeydamTests.logoutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Deydam" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="User.DeydamTests" />
+      <option name="METHOD_NAME" value="logoutTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" />
+      <item itemvalue="TestNG.DeydamTests" />
+      <item itemvalue="TestNG.DeydamTests.loginTest" />
+      <item itemvalue="TestNG.DeydamTests.logoutTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Deydam/testng.xml" />
+        <item itemvalue="TestNG.DeydamTests" />
+        <item itemvalue="TestNG.DeydamTests.logoutTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="603b83e7-9fca-49ec-a70e-c2b722ea5f10" name="Default Changelist" comment="" />
+      <created>1623752787387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623752787387</updated>
+      <workItem from="1623752802675" duration="4015000" />
+      <workItem from="1623757126090" duration="9512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Deydam$C__Users_user_pc_Documents_TestCodeCamp_Programme_Submissions_SeleniumWebdriverTests_SinglePage_task_Deydam_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1623756436628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
