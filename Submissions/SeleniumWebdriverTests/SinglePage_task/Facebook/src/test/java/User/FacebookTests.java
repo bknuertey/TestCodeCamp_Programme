@@ -30,7 +30,24 @@ public class FacebookTests {
         driver.findElement(By.id("pass")).sendKeys("Quantumleap21_");    //locate password field
         driver.findElement(By.xpath("//*[@id=\"loginbutton\"]")).click();    //click on login button
         Thread.sleep(5000);    //wait to see user logged in
-        if(driver.getCurrentUrl().contains("https://web.facebook.com/")){    //test to confirm user logged in
+        if(driver.getCurrentUrl().contains("https://web.facebook.com")){    //test to confirm user logged in
+            System.out.println("PASSED - User has successfully logged in");
+        }else{
+            System.out.println("FAILED - The user log in");
+        }
+        Thread.sleep(5000);    //waiting to see logged in page
+    }
+    @Test
+    public void logoutTest() throws InterruptedException{
+        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+        //click on drop=down button
+        driver.findElement(By.cssSelector("div[aria-label=\"Account\"]")).click();
+        //wait for 10 seconds
+        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+        //click on log out button
+        driver.findElement(By.xpath("/html/body/div[1]/div/div[1]/div/div[2]/div[4]/div[2]/div/div/div[1]/div[1]/div/div/div/div/div/div/div/div/div[1]/div/div[3]/div/div[4]/div/div[1]/div[2]/div")).click();
+        //test to confirm user logged out
+        if(driver.getCurrentUrl().contains("https://web.facebook.com")){
             System.out.println("PASSED - User has successfully logged in");
         }else{
             System.out.println("FAILED - The user log in");

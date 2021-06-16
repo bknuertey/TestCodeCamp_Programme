@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Facebook">
-        <classes><class name="User.FacebookTests"><methods><include name="loginTest"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/SinglePage_task/Facebook"><classes><class name="User.FacebookTests"><methods><include name="loginTest"/><include name="logoutTest"/></methods></class></classes></test></suite>
