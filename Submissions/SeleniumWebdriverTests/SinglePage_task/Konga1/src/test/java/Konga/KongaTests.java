@@ -43,8 +43,8 @@ public class KongaTests
         int categoryNumber = 1;
 
         //enter user details and login
-        driver.findElement(By.id("username")).sendKeys("muyiwadeyemi@gmail.com");
-        driver.findElement(By.id("password")).sendKeys("Dummypass17");
+        driver.findElement(By.id("username")).sendKeys("Dummyaccount");
+        driver.findElement(By.id("password")).sendKeys("Dummypass21");
         driver.findElement(By.xpath("/html/body/div[1]/div/section/div[2]/section/main/div/div/div/div[1]/form/div[3]/button")).click();
         Thread.sleep(5000);
 
@@ -137,7 +137,7 @@ public class KongaTests
         Thread.sleep(1000);
 
         //enter payment details and click Pay Now
-        driver.findElement(cardField).sendKeys("4860 3990 0298 8761");
+        driver.findElement(cardField).sendKeys("4860 3990 0298 8361");
         driver.findElement(dateField).sendKeys("01/21");
         driver.findElement(cvvField).sendKeys("145");
         Thread.sleep(2000);
