@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/user-pc/Documents/TestCodeCamp_Programme/Submissions/SeleniumWebdriverTests/PageObjectModel_Tasks/Konga"><classes><class name="tests.KongaTests"><methods><include name="KongaTest"/></methods></class></classes></test></suite>

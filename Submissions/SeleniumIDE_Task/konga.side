@@ -1,0 +1,346 @@
+{
+  "id": "f860bc62-20c1-47ec-82c1-ad0fd08f1bb2",
+  "version": "2.0",
+  "name": "konga",
+  "url": "https://www.konga.com",
+  "tests": [{
+    "id": "7f1c5418-7af9-4acc-9e11-835d6ddf1e49",
+    "name": "KongaTests",
+    "commands": [{
+      "id": "c40ec4f4-31f2-40a3-afa1-6524ba9017c9",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "02c36546-883d-44d1-bab0-b41af20295ee",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x784",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92f653d1-c8f5-4dfa-8c47-45608df31fba",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Baby, Kids and Toys",
+      "targets": [
+        ["linkText=Baby, Kids and Toys", "linkText"],
+        ["css=.ef511_2c5_i:nth-child(7)", "css:finder"],
+        ["xpath=//a[contains(text(),'Baby, Kids and Toys')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[7]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/baby-kids-toys-8')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[7]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a87ee4c0-3711-464d-b7fa-33b388d3bc0a",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "linkText=Baby, Kids and Toys",
+      "targets": [
+        ["linkText=Baby, Kids and Toys", "linkText"],
+        ["css=.ef511_2c5_i:nth-child(7)", "css:finder"],
+        ["xpath=//a[contains(text(),'Baby, Kids and Toys')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[7]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/baby-kids-toys-8')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[7]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5cd7cf25-19a3-4f44-8db2-d04ff831d8b3",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\_7ad32_SD12Y:nth-child(1) > span",
+      "targets": [
+        ["css=.\\_7ad32_SD12Y:nth-child(1) > span", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[2]/div/div/div[4]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'My Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1bc03d6a-ae38-47d0-a11a-660ab51d96e7",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.\\_7ad32_SD12Y:nth-child(1) > span",
+      "targets": [
+        ["css=.\\_7ad32_SD12Y:nth-child(1) > span", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[2]/div/div/div[4]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'My Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "628051b7-a2ea-446d-91c0-7eab09c9acb7",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=div > a .lazyloading",
+      "targets": [
+        ["css=div > a .lazyloading", "css:finder"],
+        ["xpath=//img[@alt='Direct From Samsung']", "xpath:img"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div/div/a/picture/img", "xpath:idRelative"],
+        ["xpath=//div[3]/nav/div/div/a/picture/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e4b892ec-8dc7-496b-93c2-f44bf712ccd4",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=div > a > picture > .lazyloaded",
+      "targets": [
+        ["css=div > a > picture > .lazyloaded", "css:finder"],
+        ["xpath=//img[@alt='Direct From Samsung']", "xpath:img"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div/div/a/picture/img", "xpath:idRelative"],
+        ["xpath=//div[3]/nav/div/div/a/picture/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8ec95847-cae0-4eb9-ba6d-822b51141d66",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\_7ad32_SD12Y:nth-child(1) > span",
+      "targets": [
+        ["css=.\\_7ad32_SD12Y:nth-child(1) > span", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[2]/div/div/div[4]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'My Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d40235bd-6af0-41f9-aab9-28a2eb7c5125",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.\\_7ad32_SD12Y:nth-child(1) > span",
+      "targets": [
+        ["css=.\\_7ad32_SD12Y:nth-child(1) > span", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[2]/div/div/div[4]/div/a/span", "xpath:idRelative"],
+        ["xpath=//div[4]/div/a/span", "xpath:position"],
+        ["xpath=//span[contains(.,'My Account')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cca23363-5246-431a-8c8f-b6ded0be5847",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Electronics",
+      "targets": [
+        ["linkText=Electronics", "linkText"],
+        ["css=.ef511_2c5_i:nth-child(4)", "css:finder"],
+        ["xpath=//a[contains(text(),'Electronics')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[4]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/electronics-5261')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "67d8e846-4535-4929-9b88-e346db4dfaad",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "linkText=Electronics",
+      "targets": [
+        ["linkText=Electronics", "linkText"],
+        ["css=.ef511_2c5_i:nth-child(4)", "css:finder"],
+        ["xpath=//a[contains(text(),'Electronics')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[4]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/electronics-5261')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0a6a88ac-d8bf-48e7-be68-e91b549a30b0",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Computers and Accessories",
+      "targets": [
+        ["linkText=Computers and Accessories", "linkText"],
+        ["css=.ef511_2c5_i:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Computers and Accessories')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/accessories-computing-5227')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fca34ecd-5834-4c49-aeee-d69510758d39",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "linkText=Computers and Accessories",
+      "targets": [
+        ["linkText=Computers and Accessories", "linkText"],
+        ["css=.f2ace_3rxdC", "css:finder"],
+        ["xpath=//a[contains(text(),'Computers and Accessories')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/nav/div[3]/div/a[2]", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/category/accessories-computing-5227')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "035808d1-2d4d-4eb4-a003-9e2110dfab0c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Macbooks",
+      "targets": [
+        ["linkText=Macbooks", "linkText"],
+        ["css=.\\_3947e_35xH5:nth-child(1) > .c3eeb_Eq1N0:nth-child(6)", "css:finder"],
+        ["xpath=//a[contains(text(),'Macbooks')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/div/div/div/div/div/a[6]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/category/macbooks-5249')]", "xpath:href"],
+        ["xpath=//div/div/div/div/a[6]", "xpath:position"],
+        ["xpath=//a[contains(.,'Macbooks')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b6c15755-f2b3-4afb-bad4-ca0e773d120b",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Macbooks",
+      "targets": [
+        ["linkText=Macbooks", "linkText"],
+        ["css=.\\_3947e_35xH5:nth-child(1) > .c3eeb_Eq1N0:nth-child(6)", "css:finder"],
+        ["xpath=//a[contains(text(),'Macbooks')]", "xpath:link"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/div/div/div/div/div/a[6]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/category/macbooks-5249')]", "xpath:href"],
+        ["xpath=//div/div/div/div/a[6]", "xpath:position"],
+        ["xpath=//a[contains(.,'Macbooks')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "a7ac388f-40f4-499a-b8cb-ba5dfb8b38b2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bbe45_3oExY:nth-child(2) .\\_0a08a_3czMG",
+      "targets": [
+        ["css=.bbe45_3oExY:nth-child(2) .\\_0a08a_3czMG", "css:finder"],
+        ["xpath=(//button[@type='submit'])[5]", "xpath:attributes"],
+        ["xpath=//main[@id='mainContent']/section[2]/section/section/section/section/ul/li[2]/div/div/div[2]/form/div[4]/button", "xpath:idRelative"],
+        ["xpath=//li[2]/div/div/div[2]/form/div[4]/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fc29536c-8f76-4b7d-ae02-27c4e1085820",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_79484_1sLEt > span:nth-child(2)",
+      "targets": [
+        ["css=.\\_79484_1sLEt > span:nth-child(2)", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[2]/nav/div[2]/div/div/a[2]/span", "xpath:idRelative"],
+        ["xpath=//div[2]/nav/div[2]/div/div/a[2]/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c23abb42-81f1-4482-a303-b713f72ee90c",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\_79484_1sLEt > span:nth-child(2)",
+      "targets": [
+        ["css=.\\_79484_1sLEt > span:nth-child(2)", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[2]/nav/div[2]/div/div/a[2]/span", "xpath:idRelative"],
+        ["xpath=//div[2]/nav/div[2]/div/div/a[2]/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "954a552c-9709-465d-97ad-914b96b98f4e",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.\\_79484_1sLEt > span:nth-child(2)",
+      "targets": [
+        ["css=.\\_79484_1sLEt > span:nth-child(2)", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[2]/nav/div[2]/div/div/a[2]/span", "xpath:idRelative"],
+        ["xpath=//div[2]/nav/div[2]/div/div/a[2]/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "71c58ec5-75af-4b0e-ad0b-f639f21f9ab1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_841f1_1RZK9 > .\\_0a08a_3czMG",
+      "targets": [
+        ["css=.\\_841f1_1RZK9 > .\\_0a08a_3czMG", "css:finder"],
+        ["xpath=//section[@id='app-content-wrapper']/div[3]/section/section/aside/div[3]/div/div[2]/button", "xpath:idRelative"],
+        ["xpath=//div[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Checkout')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2c99404b-ef88-4eb3-aae9-b76515a75b45",
+      "comment": "",
+      "command": "click",
+      "target": "name=selectPaymentMethod",
+      "targets": [
+        ["name=selectPaymentMethod", "name"],
+        ["css=.\\_4a291_2cOtr", "css:finder"],
+        ["xpath=//button[@name='selectPaymentMethod']", "xpath:attributes"],
+        ["xpath=//main[@id='mainContent']/form/div/section/div/div[4]/form/ul/li/div/button", "xpath:idRelative"],
+        ["xpath=//li/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Pay Now')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "91bad9f5-ce66-4f5b-baec-f50ea41043c6",
+      "comment": "",
+      "command": "click",
+      "target": "name=placeOrder",
+      "targets": [
+        ["name=placeOrder", "name"],
+        ["css=.\\_01552_1v_z3 > .\\_0a08a_3czMG", "css:finder"],
+        ["xpath=//button[@name='placeOrder']", "xpath:attributes"],
+        ["xpath=//main[@id='mainContent']/form/div/section/div/div[9]/div/button", "xpath:idRelative"],
+        ["xpath=//div[9]/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continue to Payment')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7e714ebe-9f2b-414b-83fa-006d75f3e0e9",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=4",
+      "targets": [
+        ["index=4"]
+      ],
+      "value": ""
+    }, {
+      "id": "a000c444-b37a-496a-b869-b6e716aeddd1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.Card .payment-option-info",
+      "targets": [
+        ["css=.Card .payment-option-info", "css:finder"],
+        ["xpath=//div[@id='channel-template']/div[2]/div/div[2]/button/div/span[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/button/div/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "452cf618-df07-4805-8e4d-2edb494c3361",
+      "comment": "",
+      "command": "click",
+      "target": "id=card-number",
+      "targets": [
+        ["id=card-number", "id"],
+        ["css=#card-number", "css:finder"],
+        ["xpath=//input[@id='card-number']", "xpath:attributes"],
+        ["xpath=//div[@id='input-card-no-container']/div[2]/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1b036a2-bf5e-44e1-bd3e-d6a7fd146d9a",
+      "comment": "",
+      "command": "assertTitle",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "5fc03de5-d73e-42fe-8b15-1873daa05eea",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["7f1c5418-7af9-4acc-9e11-835d6ddf1e49"]
+  }],
+  "urls": ["https://www.konga.com/"],
+  "plugins": []
+}
