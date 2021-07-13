@@ -26,8 +26,8 @@ public class FacebookTests {
     @Test
     public void loginTest() throws InterruptedException {
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.findElement(By.id("email")).sendKeys("bnuerteytech@gmail.com");    //locate email filed
-        driver.findElement(By.id("pass")).sendKeys("Quantumleap21_");    //locate password field
+        driver.findElement(By.id("email")).sendKeys("");    //locate email filed
+        driver.findElement(By.id("pass")).sendKeys("");    //locate password field
         driver.findElement(By.xpath("//*[@id=\"loginbutton\"]")).click();    //click on login button
         Thread.sleep(5000);    //wait to see user logged in
         if(driver.getCurrentUrl().contains("https://web.facebook.com")){    //test to confirm user logged in
